@@ -17,7 +17,7 @@ const Home = () => {
         className=" cursor-pointer text-sm text-white bg-slate-500 mt-2 p-4"
         to="Projects"
         smooth="500">
-          Portfolio
+          Portfolio here
         </Link>
     </div>
     </div>
